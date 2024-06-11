@@ -1,4 +1,4 @@
-package day6;
+package Day6;
 //program to demonstrate finally block
 
 

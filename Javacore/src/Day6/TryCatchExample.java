@@ -1,4 +1,4 @@
-package day6;
+package Day6;
 public class TryCatchExample {
 	static int performDivision(int x, int y) {
 		System.out.println("I am in method");

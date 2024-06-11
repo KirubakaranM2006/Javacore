@@ -1,4 +1,4 @@
-package day6;
+package Day6;
 //program to demonstrate try catch block
 public class TryCatchDemo {
 public static void main(String[] args) {

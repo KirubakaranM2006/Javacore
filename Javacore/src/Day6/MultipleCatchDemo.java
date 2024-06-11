@@ -1,4 +1,4 @@
-package day6;
+package Day6;
 //Program to demonstrate Multiple catch block
 import java.util.InputMismatchException;
 import java.util.Scanner;
